@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1017514418873",
+    "firebase_url": "https://knowledge-exchange-993d0.firebaseio.com",
+    "project_id": "knowledge-exchange-993d0",
+    "storage_bucket": "knowledge-exchange-993d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017514418873:android:bfa067b33ea09b37",
+        "android_client_info": {
+          "package_name": "com.example.knowledgeexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017514418873-0sbasfqbgtqvucmcn8bh45bfv57etmne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-5uze6FV-qCNiXJai3zkXIKTtIEyRH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
